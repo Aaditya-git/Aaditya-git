@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aaditya Bhilegaonkar.</h1>
-<h3 align="center">Enthusiastic Learner.</h3>
+<h1 align="center">Hi 👋, I'm Aaditya Bhilegaonkar</h1>
+<h3 align="center">Grinding to be the best</h3>
 
-- 🔭 I’m currently working on **E-commerce architecture Website on AWS**
+- 🔭 Currently focused on honing my skills and building impactful projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aaditya-git](https://github.com/Aaditya-git)
+
+- 🎓 Pursuing my **Master's in Computer Science at Arizona State University**
 
 - 📫 How to reach me **aadityab134@gmail.com**
 
@@ -16,6 +18,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya-git&show_icons=true&locale=en&layout=compact" alt="aaditya-git" /></p>
