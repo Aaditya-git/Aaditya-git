@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Bhilegaonkar</h1>
 <h3 align="center">
   <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="30px"/>
-  <strong><i><span style="font-family: 'Nerko One', cursive;">Grinding to be the Best</span></i></strong>
+  <strong><i><span style="font-family: 'Nerko One', cursive;">Grinding to be the Best!!!</span></i></strong>
 </h3>
 
 - 🔭 Currently focused on honing my skills and building impactful projects
