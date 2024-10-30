@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Aaditya Bhilegaonkar</h1>
+<h3 align="center">
 
 
 ## 🌐 Socials:
